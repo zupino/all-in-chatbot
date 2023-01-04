@@ -29,5 +29,8 @@ There is a limit on the size of the prompt that can be used with the OpenAI Comp
 The most interesting part for me was to use OpenAI Embedding to place user questions and sections of podcast transcript in a vector space where relevance can then be determined as distance between vectors. I always find this idea fascinating and would love to look deeper into the topic. 
 
 [1] https://every.to/superorganizers/i-trained-a-gpt-3-chatbot-on-every-episode-of-my-favorite-podcast
+
 [2] https://www.allinpodcast.co
+
 [3] https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb
+
