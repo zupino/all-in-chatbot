@@ -17,7 +17,7 @@
 #
 # The command line usage is the following
 #
-#   python3 all-in-chatbot.py question-string knowledge-dir
+#   python3 all-in-chatbot.py knowledge-dir
 
 # CSV to load the podcast transcript kwowledge base
 import csv
