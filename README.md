@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/4855290/210674541-58d54736-927c-439f-b57e-ce4121d00ecb.png)
-
 # All-in Podcast Chatbot
+
+![all-in-chatbot-examples](https://user-images.githubusercontent.com/4855290/212495214-80afcefa-3002-47ad-8cee-50b7e132c531.gif)
 
 This script makes use of ChatGPT to answer user questions based on your favorite podcast content, a useful tool to quickly access the content of podcast episodes and provide time reference where the topic requested was discussed.
 
