@@ -1,4 +1,4 @@
-# All-in Podcast Chatbot
+# Podcast Chatbot
 
 ![all-in-chatbot-examples](https://user-images.githubusercontent.com/4855290/212495214-80afcefa-3002-47ad-8cee-50b7e132c531.gif)
 
